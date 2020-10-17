@@ -1,0 +1,45 @@
+.carousel {
+  position: relative;
+  width: calc(100% + 20px);
+  left: -10px;
+}
+
+.carouselContent {
+  overflow: hidden;
+}
+
+.carouselInner {
+  margin: 0 auto;
+    max-width: 990px;
+    display: flex;
+    flex: 0 1 auto;
+    overflow-x: visible;
+    transition: transform 0.4s;
+    will-change: transform;
+}
+
+.carouselLeftArrow {
+  left: -34px;
+}
+
+.carouselRightArrow {
+  right: -34px;
+}
+
+.carouselLeftArrow,
+.carouselRightArrow {
+  background: none;
+  position: absolute;
+  top: calc(50% - 17px);
+  border: 0;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.leftIcon,
+.rightIcon {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
