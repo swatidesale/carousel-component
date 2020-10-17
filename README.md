@@ -17,8 +17,8 @@ Related Products carousel component
 3. Run `yarn install` to install all project dependencies.
 
 4. Run `yarn start` to start development.
-        Runs the app in the development mode.
-        Open http://localhost:9000 to view it in the browser.
+  * Runs the app in the development mode.
+  * Open http://localhost:9000 to view it in the browser.
 
 5. Run  `yarn run build` to get a compiled build.
 
