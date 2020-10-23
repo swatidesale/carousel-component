@@ -8,7 +8,7 @@ Related Products carousel component
 1. Clone this repository 
 
     ```
-    $ git clone https://github.com/swatidesale/trivia_game.git
+    $ git clone https://github.com/swatidesale/carousel-component.git
     ```
 2. Install yarn — a fast and reliable alternative to the default npm client.
     ```
